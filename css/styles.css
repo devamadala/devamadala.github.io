@@ -9966,6 +9966,12 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+
+.page-section h2.section-sub-heading {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
 .page-section h3.section-subheading {
   font-size: 1rem;
   font-weight: 400;
